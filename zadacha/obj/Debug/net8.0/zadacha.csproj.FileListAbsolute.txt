@@ -1,0 +1,14 @@
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\bin\Debug\net8.0\zadacha.exe
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\bin\Debug\net8.0\zadacha.deps.json
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\bin\Debug\net8.0\zadacha.runtimeconfig.json
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\bin\Debug\net8.0\zadacha.dll
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\bin\Debug\net8.0\zadacha.pdb
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfoInputs.cache
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfo.cs
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\zadacha.csproj.CoreCompileInputs.cache
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\zadacha.dll
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\refint\zadacha.dll
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\zadacha.pdb
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\zadacha.genruntimeconfig.cache
+C:\Users\ulian\OneDrive\Рабочий стол\FinalTestIT\zadacha\obj\Debug\net8.0\ref\zadacha.dll
